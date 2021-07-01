@@ -1,0 +1,2 @@
+Cloning remote git repository =>
+				git clone <remote_repo_address> <rename_if_you want>

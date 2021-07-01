@@ -1,0 +1,13 @@
+Ignoring file in git =>
+		=> create .gitignore file and add file in it whiich you want to ingnore
+
+		=> if you want to ignore all files of a particular extention (eg-> .log) =>
+										*.log
+
+		=> if you want to ignore directory (eg-> dir) =>
+								dir/ (it will ignore all dir folders)
+
+		=> if you want to ignore only outer <dir/> =>
+								/dir/ (give full path)
+
+		=> by default git ignores blank folder

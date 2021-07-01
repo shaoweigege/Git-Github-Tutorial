@@ -1,0 +1,6 @@
+Three stage architecture =>
+		1. Working directory
+		2. Staging area => 
+				set of files which we want them to go to the next commit.
+		3. Git directory (repository) =>
+				hidden directory (.git) ewhere all the work is saved in compressed form

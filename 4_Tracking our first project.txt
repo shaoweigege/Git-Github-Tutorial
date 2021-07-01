@@ -1,0 +1,20 @@
+Tracking Our first project =>
+	
+	1. git status => 
+			give deatils of the git repository
+	
+	2. git init =>
+			initialized empty git repository (it creates current folder- git repository)
+	
+	3. git add --a =>
+			put all the file into the staging area
+
+	4. git add <file_name> =>
+			add particular file into the staging area
+
+	5. git commit -m "Initial Commit" =>
+			creating a snapshot of my files
+
+	6. git log => 
+			will show all commits
+ 
