@@ -1,0 +1,4 @@
+Skiping the staging area =>
+			$ git commit -a -m "commit message"
+
+			note: but the untracked file will not go the the commit area.
