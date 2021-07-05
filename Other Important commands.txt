@@ -1,0 +1,4 @@
+Important Commands:-
+
+$ git checkout -f =>
+			match your working directry to last commit.
