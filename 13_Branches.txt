@@ -1,7 +1,7 @@
 Braches:-
 
 # Viewing a branches =>
-			$ git branche
+			$ git branch
 
 # Creating new branches =>
 			$ git branch <branch_name>
