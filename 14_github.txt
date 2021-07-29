@@ -1,0 +1,13 @@
+******************Git Hub*********************
+
+# Git Hub is a hosting service.
+
+*******Steps to push you repo to remote repository(public)******
+
+1. Create new public repository
+
+2. create a new repository on the command line
+
+	==> git remote add origin git@github.com:<account_name>/<repo_name>.git
+	==> git branch -M <branch>
+	==> git push -u origin <branch>
