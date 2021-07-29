@@ -1,0 +1,23 @@
+*****************Git Hub Token***************
+
+# If you are facing authentication error, then create a token.
+
+# This token will provide you authentication to push your repo to remote repo.
+
+
+******Creating Token*******
+
+1. Account setting
+2. Developer settings
+3. Personal access tokens
+4. Generate new tokens
+
+
+*********Using Token*******
+
+1. copy remote repository's url (where you want to push your repo)
+
+2. go to gitbash/terminal
+
+3. git remote set-url origin https://<token>@<remote_repository_url>
+
