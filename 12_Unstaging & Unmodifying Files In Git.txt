@@ -1,0 +1,6 @@
+******Unstaging & Unmodifying Files In Git******
+
+
+# Unstage file =>
+		$ git restore --staged <file_name>
+

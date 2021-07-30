@@ -1,0 +1,32 @@
+Git => Version Control System
+		=> Keep Track of your project
+		=> Easy file recovery
+		=> Who introduced an issue & when?
+		=> Roll back to previously working state
+
+History of VCS =>
+	=>Local VCS
+	=>Centralized VSC
+	=>Distributed VCS
+
+=>Git is a distributed VCS
+
+GitHub  => Git Repository Hosting Service
+	=> Website which manages your github repository
+
+GitHub alternatives => GitLab, Bitbucket, etc.
+
+=> Git is free
+=> Github is paid website (takes chargers of managing your Git repo).
+
+Git Features =>
+		=> Snapshot not difference
+		=> Almmost every operation is local
+		=> Git has integrity (checksum)
+		=> Git generally only adds data
+
+=> Git developed by Linus Torvalds.
+
+
+
+

@@ -1,0 +1,11 @@
+Moving and Renaming files in git =>
+
+# Delete file =>
+		$ git rm <file_name>
+
+# Rename file =>
+		$ git mv <file_name> <rename_file_name>
+
+# if you want to untrack the tracking file (if you have put the file into the .gitignore file)
+              =>
+		$ git rm --cached <file_name>

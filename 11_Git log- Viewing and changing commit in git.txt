@@ -1,0 +1,25 @@
+******Git log- Viewing and changing commit in git******
+
+
+# Viewing detailed git log with changes =>
+					$ git log -p
+					$ git log -p -n
+				note: "n" is number of commits (n = 1,2,3....)
+
+# Viewing brief git log =>
+			$ git log --stat
+
+# View git log in one line =>
+			$ git log --pretty=oneline
+
+# View git log acc. to time =>
+			$ git log --since=2.days
+			$ git log --since=2.weeks
+			$ git log --since=2.monts
+			$ git log --since=2.years
+
+# View git log in a particular format =>
+			$ git log --pretty=format:"%h -- %an"
+
+		note: * here "%h" & "%an" are place holders for "abbreviated commit hash" $ "author name"
+		      * there are more place holders ==> visit https://git-scm.com/docs/git-log 

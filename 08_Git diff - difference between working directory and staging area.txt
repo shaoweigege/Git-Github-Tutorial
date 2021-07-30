@@ -1,0 +1,5 @@
+Git diff - difference between working directory and staging area =>
+			
+			=> $ git diff : show difference between staging area and working director
+
+			=> $ git diff --staged : show difference between previous commit and staging area

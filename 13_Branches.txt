@@ -1,0 +1,16 @@
+Braches:-
+
+# Viewing a branches =>
+			$ git branch
+
+# Creating new branches =>
+			$ git branch <branch_name>
+
+# Switch to other branch =>
+			$ git checkout <branch_name>
+
+# Merging my branch to master branch =>
+			$ git merge <branch_name>
+
+#Create and  switch to new branch =>
+			$ git checkout -b <branch_name>
